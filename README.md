@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, ich bin Vincent 👋
 
-<!--
-**VincentLanzinger/VincentLanzinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master's Student in Management @ WU Wien
+Spezialisierung: Consulting & Governance | AI Engineering @ BSH
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🗂 Was ich hier mache
+
+Dieses Profil ist mein persönliches Arbeitsarchiv —
+kein Portfolio zur Selbstvermarktung, sondern Ordnung für mich.
+
+---
+
+## 📁 Repos nach Thema
+
+### Algorithmen & Datenstrukturen
+- [`graph-algorithms`] — Dijkstra, A*, Bellman-Ford (Python)
+- [`data-structures`]  — Heap, Trie, Union-Find
+
+### AI & Data
+- [`shadow-ai-governance`] — Thesis-Begleitmaterial & Notizen
+- [`polymarket-scanner`]   — Prediction-Market-Analyse (Gamma API)
+- [`bsh-ai-tools`]         — Interne Hilfsskripte (privat)
+
+### Lernprojekte
+- [`ml-experiments`]  — Notebooks, Modellversuche
+- [`python-snippets`] — Wiederverwendbare Utilities
+
+---
+
+## 🛠 Stack
+
+Python · pandas · LangChain · Git · SQL
+
+---
+
+## 📌 Aktuell
+
+- Masterthesis: Shadow AI Governance
+- Working Student AI Engineering @ BSH
+- Nächstes Ziel: MBB / Big 4 Entry
+
+---
+*Letztes Update: April 2026*
