@@ -1,45 +1,22 @@
-# Hi, ich bin Vincent 👋
+# Vincent Lanzinger
 
-Master's Student in Management @ WU Wien
-Spezialisierung: Consulting & Governance | AI Engineering @ BSH
+MSc Management student at WU Vienna, background in Wirtschaftsingenieurwesen. Former AI Engineering working student at a large industrial company. Strategy Lead at a student consulting organization.
 
----
+This profile is where I keep my work — not a portfolio, just what I'm building and learning right now.
 
-## 🗂 Was ich hier mache
+## Currently
 
-Dieses Profil ist mein persönliches Arbeitsarchiv —
-kein Portfolio zur Selbstvermarktung, sondern Ordnung für mich.
+- **Tectus Atlas** — building a B2B AI governance startup focused on Shadow AI discovery and EU AI Act compliance.
+- Finishing my Master's thesis on **Shadow AI governance**.
 
----
+## Tech
 
-## 📁 Repos nach Thema
+Python · ML/AI tooling · data engineering · strategy
 
-### Algorithmen & Datenstrukturen
-- [`graph-algorithms`] — Dijkstra, A*, Bellman-Ford (Python)
-- [`data-structures`]  — Heap, Trie, Union-Find
+## Interests
 
-### AI & Data
-- [`shadow-ai-governance`] — Thesis-Begleitmaterial & Notizen
-- [`polymarket-scanner`]   — Prediction-Market-Analyse (Gamma API)
-- [`bsh-ai-tools`]         — Interne Hilfsskripte (privat)
+AI/ML · prediction markets · geopolitics · investing
 
-### Lernprojekte
-- [`ml-experiments`]  — Notebooks, Modellversuche
-- [`python-snippets`] — Wiederverwendbare Utilities
+## Contact
 
----
-
-## 🛠 Stack
-
-Python · pandas · LangChain · Git · SQL
-
----
-
-## 📌 Aktuell
-
-- Masterthesis: Shadow AI Governance
-- Working Student AI Engineering @ BSH
-- Nächstes Ziel: MBB / Big 4 Entry
-
----
-*Letztes Update: April 2026*
+[LinkedIn](LINKEDIN_URL)
