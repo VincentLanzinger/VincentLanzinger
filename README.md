@@ -1,8 +1,8 @@
 # Vincent Lanzinger
 
-MSc Management student at WU Vienna, background in Wirtschaftsingenieurwesen. Former AI Engineering working student at a large industrial company. Strategy Lead at a student consulting organization.
+M.Sc. Management student at WU Vienna, background in Wirtschaftsingenieurwesen. Former AI Engineering working student at a large industrial company. Strategy Lead at a student consulting organization.
 
-This profile is where I keep my work — not a portfolio, just what I'm building and learning right now.
+This profile is where I keep my work: not a portfolio, just what I'm building and learning right now.
 
 ## Currently
 
@@ -15,8 +15,8 @@ Python · ML/AI tooling · data engineering · strategy
 
 ## Interests
 
-AI/ML · prediction markets · geopolitics · investing
+AI/ML · prediction markets · geopolitics · investing 
 
 ## Contact
 
-[LinkedIn](LINKEDIN_URL)
+[LinkedIn](www.linkedin.com/in/vincent-lanzinger-975b2422b)
