@@ -6,7 +6,7 @@ This profile is where I keep my work: not a portfolio, just what I'm building an
 
 ## Currently
 
-- **Tectus Atlas** — building a B2B AI governance startup focused on Shadow AI discovery and EU AI Act compliance.
+- **Tectus Atlas**: building a B2B AI governance startup focused on Shadow AI discovery and EU AI Act compliance.
 - Finishing my Master's thesis on **Shadow AI governance**.
 
 ## Tech
