@@ -12,10 +12,10 @@ Finishing my **Master's thesis** on Shadow AI governance at WU Vienna: how organ
 
 | Project | Description |
 |---|---|
-| [rl-reactive-scheduling-thesis](https://github.com/VincentLanzinger/rl-reactive-scheduling-thesis) | Multi-Agent PPO environment for reactive Dynamic Flexible Job Shop Scheduling (DFJSSP). Core contribution: hyperparameter optimisation via Taguchi orthogonal arrays — measurable improvement over baseline with far fewer training runs than grid search. B.Eng. thesis, Hochschule Aalen (2024). |
+| [rl-reactive-scheduling-thesis](https://github.com/VincentLanzinger/rl-reactive-scheduling-thesis) | Multi-Agent PPO environment for reactive Dynamic Flexible Job Shop Scheduling (DFJSSP). Core contribution: hyperparameter optimisation via Taguchi orthogonal arrays; measurable improvement over baseline with far fewer training runs than grid search. B.Eng. thesis, Hochschule Aalen (2024). |
 | [shadow-ai-governance-toolkit](https://github.com/VincentLanzinger/shadow-ai-governance-toolkit) | Python framework for organisational Shadow AI risk assessment. Six-category taxonomy (data, compliance, security, reliability, governance, vendor), weighted scoring engine, Markdown report output. Built alongside Master's thesis research. |
-| [predictive-maintenance-ml](https://github.com/VincentLanzinger/predictive-maintenance-ml) | End-to-end ML pipeline for Remaining Useful Life (RUL) prediction on industrial sensor data. Validated on NASA C-MAPSS turbofan dataset — rolling-window feature engineering, Random Forest and XGBoost models, NASA asymmetric scoring function. |
-| [playground](https://github.com/VincentLanzinger/playground) | Browser experiments — a rhythmic arcade game, a bullet-hell roguelike, a Flappy Bird variant set in Vienna's Prater, and an evidence-based sleep-onset app. |
+| [predictive-maintenance-ml](https://github.com/VincentLanzinger/predictive-maintenance-ml) | End-to-end ML pipeline for Remaining Useful Life (RUL) prediction on industrial sensor data. Validated on NASA C-MAPSS turbofan dataset; rolling-window feature engineering, Random Forest and XGBoost models, NASA asymmetric scoring function. |
+| [playground](https://github.com/VincentLanzinger/playground) | Browser experiments; a rhythmic arcade game, a bullet-hell roguelike, a Flappy Bird variant set in Vienna's Prater, and an evidence-based sleep-onset app. |
 
 ## Stack
 
