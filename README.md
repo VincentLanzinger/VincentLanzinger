@@ -4,7 +4,7 @@ M.Sc. Management at WU Vienna, engineering background in Wirtschaftsingenieurwes
 
 ## Currently
 
-Building **Tectus Atlas** — B2B AI governance tooling focused on Shadow AI discovery and EU AI Act compliance for mid-market organisations.
+Building **Tectus Atlas**: B2B AI governance tooling focused on Shadow AI discovery and EU AI Act compliance for mid-market organisations.
 
 Finishing my **Master's thesis** on Shadow AI governance at WU Vienna: how organisations detect, assess, and govern unsanctioned AI adoption across departments.
 
